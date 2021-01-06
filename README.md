@@ -26,7 +26,7 @@ Tarefas de código:
     - Extrair do pdf anexo os dados dos Quadros 30,31,32 (Tabela de categoria do Padrão TISS);
     - Salvar dados dessas tabelas em csvs;
     - Zipar todos os csvs num arquivo "Teste_Intuitive_Care_{seu_nome}.zip".
----
+
 
 
 ---
@@ -49,7 +49,10 @@ $ npm run dev:server
 ## Autor
 
 Keetener Rodrigo
+<br/>
 E-mail: keetenermachado99@gmail.com.
+<br/>
 Linkedin: https://www.linkedin.com/in/keetener-rodrigo-a18b86173/
+<br/>
 Telefone: (17) 99649-4158
 
