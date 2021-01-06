@@ -2,13 +2,6 @@
 	Teste Intuitive Care
 </h4>
 
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> •
- <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-autor">Autor</a> •
-</p>
-
 ## 💻 Observações do desenvolvedor
 
 Todas as informações de execução estão nesse arquivo, criei o projeto em Node/Typescript qualquer duvida estou a disposição.
