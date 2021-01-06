@@ -8,6 +8,7 @@ import TransformPDFtoCSV from '@modules/archive/utils/TransformPDFtoCSV';
 class ManipulateArchiveService {
   public async execute(): Promise<void> {
     try {
+      fs.mkdirSync("csv");
       const file = fs.readFileSync('Arquivo2.pdf');
 
       const { text } = await pdf(file).then();
